@@ -7,6 +7,9 @@ https://github.com/kitsunyan/foxy-droid
 [![Release](https://img.shields.io/github/v/release/kitsunyan/foxy-droid)](https://github.com/kitsunyan/foxy-droid/releases)
 [![F-Droid](https://img.shields.io/f-droid/v/nya.kitsunyan.foxydroid)](https://f-droid.org/packages/nya.kitsunyan.foxydroid/)
 
+## 🗒️ Planned Features
+
+A way to scan a app from any repo using ClamAV
 ## Description
 
 ### Screenshots
