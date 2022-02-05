@@ -12,6 +12,14 @@ https://github.com/kitsunyan/foxy-droid
 A way to scan a app from any repo using ClamAV
 ## Description
 
+## Credits
+
+Foxy Droid
+https://github.com/kitsunyan/foxy-droid
+
+Machiav3lli's fork 
+https://github.com/machiav3lli/foxy-droid
+
 ### Screenshots
 
 ## Building and Installing
