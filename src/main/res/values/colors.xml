@@ -4,7 +4,7 @@
   <color name="background_light">#fffafafa</color>
   <color name="primary_light">#ff262c38</color>
   <color name="primary_dark_light">#ff21242b</color>
-  <color name="accent_default_light">#ff1976d2</color>
+  <color name="accent_default_light">#e95420</color>
   <color name="error_default_light">#ffff1d18</color>
   <color name="background_dark">#ff111111</color>
   <color name="primary_dark">#ff262c38</color>
