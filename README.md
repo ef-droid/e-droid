@@ -10,6 +10,7 @@ https://github.com/kitsunyan/foxy-droid
 ## 🗒️ Planned Features
 
 A way to scan a app from any repo using ClamAV
+More customization options
 ## Description
 
 ## Credits
