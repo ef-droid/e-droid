@@ -107,12 +107,20 @@ data class Repository(val id: Long, val address: String, val mirrors: List<Strin
         "official repository of The Guardian Project apps for use with the F-Droid client. Applications in this " +
         "repository are official binaries built by the original application developers and signed by the same key as " +
         "the APKs that are released in the Google Play Store.",
-        21, false, "B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135", "")
+        21, true, "B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135", "")
     }, run {
       defaultRepository("https://guardianproject.info/fdroid/archive", "Guardian Project Archive", "The official " +
         "repository of The Guardian Project apps for use with the F-Droid client. This contains older versions of " +
         "applications from the main repository.", 21, false,
         "B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135", "")
+    }, run {
+      defaultRepository("https://divestos.org/fdroid/official", "Divest OS Repo",
+        "The official Divest OS F-Droid repository.",
+        21, true, "E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467", "")
+    }, run {
+      defaultRepository("https://guardianproject-wind.s3.amazonaws.com/fdroid/repo", "Wind Project",
+        "A collection of interesting offline/serverless apps.",
+        21, true, "182CF464D219D340DA443C62155198E399FEC1BC4379309B775DD9FC97ED97E1", "")
     })
   }
 }
